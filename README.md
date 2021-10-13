@@ -1,2 +1,2 @@
 # Sentence-Classifier
-TO Classify the Statement
+To Classify the Statement

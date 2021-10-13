@@ -1,0 +1,11 @@
+platform:python3
+Algorithm:LogisticRegression
+Packages :
+1.logging
+2.pandas
+3.numpy 
+4.nltk
+5.sklearn
+6.matplotlib
+7.re
+8.BeautifulSoup
